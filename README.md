@@ -1,3 +1,5 @@
+VISIT GIT PROJECT WIH THE PROJECT DOCKER https://github.com/jsilvazuniga/dockerFundament
+
 FRONTEND link: http://localhost/
 
 BACKEND link: http://localhost:5000/api/getMyInfo
